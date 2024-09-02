@@ -1,4 +1,5 @@
 # Welcome to My GitHub Repo!
+
 [![](https://visitcount.itsvg.in/api?id=Bajahaw&icon=5&color=13)](https://visitcount.itsvg.in)
 
 - 👋 Hi, I’m Radhi @Bajahaw
@@ -28,7 +29,7 @@ Thank you for visiting my repository. Happy coding!
 ![](https://github-profile-trophy.vercel.app/?username=Bajahaw&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
 
 
 
