@@ -21,7 +21,7 @@ Thank you for visiting my repository. Happy coding!
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bajahaw&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Bajahaw&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Bajahaw&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bajahaw&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
