@@ -15,7 +15,7 @@ I'm always open to collaborating and learning from others. If you're interested 
 Thank you for visiting my repository. Happy coding!
 
 ## 🌐 Socials:
-<div style="text-align: center;">
+<div align="center">
     <a href="https://discord.gg/rathi7137">
         <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
     </a>
@@ -34,7 +34,7 @@ Thank you for visiting my repository. Happy coding!
 </div>
 
 # 💻 Tech Stack:
-<div style="text-align: center;">
+<div align="center">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" alt="C#">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
@@ -62,7 +62,7 @@ Thank you for visiting my repository. Happy coding!
 </div>
 
 # 📊 GitHub Stats:
-<div style="text-align: center;">
+<div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bajahaw&theme=dark&hide_border=false" alt="GitHub Streak Stats"/><br/>
     <img src="https://github-readme-stats.vercel.app/api?username=Bajahaw&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bajahaw&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
@@ -70,12 +70,12 @@ Thank you for visiting my repository. Happy coding!
 
 
 ## 🏆 GitHub Trophies
-<div style="text-align: center;">
+<div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Bajahaw&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/><br/>
 </div>
 
 ### ✍️ Random Dev Quote
-<div style="text-align: center;">
+<div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="GitHub Trophies"/><br/>
 </div>
 
