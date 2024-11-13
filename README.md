@@ -16,18 +16,12 @@
 ## 🌐 Socials:
 
 <div align="center">
-    <a href="https://instagram.com/rad7_i">
-        <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram">
-    </a>
-    <a href="https://discord.gg/rathi7137">
-        <img src="https://skillicons.dev/icons?i=discord" alt="Discord">
-    </a>
-    <a href="https://github.com/Bajahaw">
-        <img src="https://skillicons.dev/icons?i=github" alt="Facebook">
-    </a>
-    <a href="https://linkedin.com/in/radhi-bajahaw">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
-    </a>
+
+[![Social](https://skillicons.dev/icons?i=instagram)](https://instagram.com/rad7_i)
+[![Social](https://skillicons.dev/icons?i=discord)](https://discord.gg/rathi7137)
+[![Social](https://skillicons.dev/icons?i=github)](https://github.com/Bajahaw)
+[![Social](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/radhi-bajahaw)
+    
 </div>
 
 ## 💻 Tech Stack:
