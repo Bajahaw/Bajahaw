@@ -34,7 +34,7 @@
 ##  GitHub Stats:
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bajahaw&theme=transparent&hide_border=true" alt="GitHub Streak Stats" width="55%" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bajahaw&theme=youtube-dark" alt="GitHub Streak Stats" width="55%" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bajahaw&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="40%"/>
 
 
