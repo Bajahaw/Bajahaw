@@ -1,6 +1,9 @@
 <div align="center">
 
 # _Welcome to My GitHub Profile!_
+
+<img src="https://github.com/user-attachments/assets/e3f87ecc-5b1d-45c9-8e9f-7d94554f4529" width="100%">
+
 [![](https://visitcount.itsvg.in/api?id=Bajahaw&icon=2&color=13)](https://visitcount.itsvg.in)
 <br>
 <a href="https://www.radhi.tech" target="_blank"><img src="https://img.shields.io/badge/👋%20Hi%2C%20I'm%20Radhi%20%40Bajahaw-000000.svg?style=flat&logo=github&logoColor=white"></a> 
