@@ -2,7 +2,8 @@
 
 # _Welcome to My GitHub Profile!_
 
-<img src="https://github.com/user-attachments/assets/e3f87ecc-5b1d-45c9-8e9f-7d94554f4529" width="100%">
+<a href="https://www.radhi.tech" target="_blank"><img src="https://github.com/user-attachments/assets/e3f87ecc-5b1d-45c9-8e9f-7d94554f4529" width="100%"></a>
+
 
 [![](https://visitcount.itsvg.in/api?id=Bajahaw&icon=2&color=13)](https://visitcount.itsvg.in)
 <br>
