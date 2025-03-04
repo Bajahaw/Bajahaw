@@ -3,8 +3,7 @@
 # _Welcome to My GitHub Profile!_
 [![](https://visitcount.itsvg.in/api?id=Bajahaw&icon=2&color=13)](https://visitcount.itsvg.in)
 <br>
-![](https://img.shields.io/badge/👋%20Hi%2C%20I'm%20Radhi%20%40Bajahaw-000000.svg?style=flat&logo=github&logoColor=white)
- 
+<a href="www.radhi.tech"><img src="https://img.shields.io/badge/👋%20Hi%2C%20I'm%20Radhi%20%40Bajahaw-000000.svg?style=flat&logo=github&logoColor=white"></a> 
 
 ## _About Me_
 
