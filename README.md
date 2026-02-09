@@ -36,6 +36,8 @@
 
 ##  GitHub Stats:
 
+![Heatmap Game](game.gif)
+
 
 <!-- Copy-paste in your Readme.md file -->
 
